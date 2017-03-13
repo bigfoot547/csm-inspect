@@ -3,7 +3,7 @@ Client mod that adds a command to inspect nodes and items.
 
 ## Commands
 ### inspect
-Arguments: help|get|on|off|hand|toggle
+Arguments: `help | get | on | off | hand | toggle`
 
 #### Help
 Display a help message.
