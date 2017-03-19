@@ -27,7 +27,7 @@ Toggle inspection. If run with no arguments, this is default.
 1. Enter your minetest directory.
 2. Find the `clientmods` directory.
 3. Unpack this mod into that directory.
-4. Rename unpacked directory (should be named `csm-inspect-mastet`) to inspect.
+4. Rename unpacked directory (should be named `csm-inspect-master`) to `inspect`.
 5. Set the in-game setting `enable_client_modding` to true.
 6. You're done!
 
