@@ -32,7 +32,7 @@ Toggle inspection. If run with no arguments, this is default.
 6. You're done!
 
 ## How to use
-When inspection is enabled (type `/inspect get` to find out), punch a node to see everything about it.
+When inspection is enabled (type `.inspect get` to find out), punch a node to see everything about it.
 
 ## License
 Code: **LGPL v2.1+**
